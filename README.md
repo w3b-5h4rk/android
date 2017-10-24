@@ -1,4 +1,4 @@
-# [ownCloud](https://owncloud.org) Android app
+# [ownCloud](https://owncloud.org) Android app.
 [![](https://owncloud.org/wp-content/themes/owncloudorgnew/assets/img/clients/buttons/googleplay.png)](https://play.google.com/store/apps/details?id=com.owncloud.android)
 
 [![](https://lh3.googleusercontent.com/dJv5wNQ-_pm8QR25lbcwrSAJ_8TPDlk4z9B5CADN40A9KWWoDmGuchK3rMkKthBBTw=h500)](https://play.google.com/store/apps/details?id=com.owncloud.android) [![](https://lh3.googleusercontent.com/v8I1GBePMpg-68TTTcal2LrNLHK1dmKWULxpNgZyGPu0LpXkbUWZooKiLrw331z9Q-c=h500)](https://play.google.com/store/apps/details?id=com.owncloud.android) [![](https://lh3.googleusercontent.com/NsSPoFha6hqyukQKAKSZWPNo_vt6gshMBlHjnlpowUCHO8-ZLjeslPh82nAttoA-Au8=h500)](https://play.google.com/store/apps/details?id=com.owncloud.android)
